@@ -9,6 +9,8 @@ public class Main {
 
         boolean systemOn = true;
 
+        System.out.println("Welcome to Aikido Tracker!");
+
         while (systemOn) {
             System.out.println("Enter 1 to add training: ");
             System.out.println("Enter 2 to check kyu graduation eligibility: ");
